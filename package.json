@@ -33,7 +33,7 @@
     "prettier-bytes": "^1.0.3",
     "pug": "^2.0.0-beta4",
     "remarkable": "^2.0.0",
-    "rollbar": "^2.4.5",
+    "rollbar": "^2.14.4",
     "run-parallel-limit": "^1.0.3",
     "semver": "^6.2.0",
     "serve-index": "^1.8.0",
